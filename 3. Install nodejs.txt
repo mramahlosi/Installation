@@ -1,0 +1,100 @@
+4 chobane@DESKTOP-9EGLSGI:
+
+x EEE - a
+
+:~$ sudo apt-get install nodejs
+
+[sudo] password for chobane:
+
+Reading package lists... Done
+Building dependency tree... Done
+Reading state information... Done
+
+The following additional packages will be installed:
+javascript-common libc-ares2 libjs-highlight.js libnode72 libuvl nodejs-doc
+Suggested packages:
+
+npm
+
+The following NEW packages will be installed:
+
+javascript-common libc-ares2 libjs-highlight.js libnode72 libuvl nodejs nodejs-doc
+0 upgraded, 7 newly installed, © to remove and © not upgraded.
+Need to get 11.7 MB of archives.
+After this operation, 50.9 MB of additional disk space will be used.
+Do you want to continue? [Y/n] Y
+://deb.debian.org/debian bullseye/main amd64 javascript-common all 11+nmul [6,260 B]
+://security.debian.org/debian-security bullseye-security/main amdé4 libc-ares2 amd64 1.17.1-1+debllu3 [102 kB]
+://deb.debian.org/debian bullseye/main amdé4 libjs-highlight.js all 9.18.5+dfsgl-1 [397 kB]
+://security.debian.org/debian-security bullseye-security/main amd64 libnode72 amd64 12.22.12~dfsg-1~debllud [8,332 kB]
+://deb.debian.org/debian bullseye/main amd64 libuvl amdé64 1.40.0-2 [132 kB]
+://security.debian.org/debian-security bullseye-security/main amdé64 nodejs amd64 12.22.12~dfsg-1~debllud [148 kB]
+://security.debian.org/debian-security bullseye-security/main amd64 nodejs-doc all 12.22.12~dfsg-1~debllud [26547 kB]
+7 MB in 22s (533 kB/s)
+Selecting previously unselected package javascript-common
+
+Get:
+Get:
+Get:
+Get:
+Get:
+Get:
+Get:
+Fetche
+
+Qo EWN RK
+
+(Reading database ...
+.../®-javascript-common_11+nmul_all.deb ...
+
+Prepar:
+Unpack
+Select
+Prepar:
+Unpack
+Select
+Prepar:
+
+http
+http
+http
+http
+http
+http
+http
+d 11
+
+ing
+ing
+ing
+ing
+ing
+ing
+ing
+
+to unpack
+
+57213 files and directories currently installed.)
+
+javascript-common (11+nmul)
+previously unselected package libc-ares2:amdéd.
+
+to unpack
+
+.../1-libc-ares2_1.17.1-1+debllu3_amd64.deb ...
+
+libc-ares2:amd64 (1.17.1-1+debllu3)
+previously unselected package libjs-highlight. js.
+
+to unpack
+
+.../2-libjs-highlight.js_9.18.5+dfsgl-1_all.deb ...
+
+22:49
+2023/06/22
+
+po
+
+bt Mar. A @ Lldg ENG
+
+Il

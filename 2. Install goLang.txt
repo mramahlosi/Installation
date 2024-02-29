@@ -1,0 +1,127 @@
+4 chobane@DESKTOP-9EGLSGI:
+
+x
+
+4+ vv
+
+[sudo] password for chobane:
+
+Reading package lists... Done
+Building dependency tree... Done
+Reading state information... Done
+
+:~$ sudo apt-get install golang
+
+The following additional packages will be installed:
+binutils binutils-common binutils-x86-6U4-linux-gnu g++ g++-10 gcc gcc-10 golang-1.15 golang-1.15-doc golang-1.15-go
+
+golang-1.15-src golang-doc golang-go golang-src libasan6é libatomicl libbinutils libc-dev-bin libc-devtools libc6-dev libccl-0
+
+libcrypt-dev libctf-nobfd® libctf@ libdpkg-perl libfile-fcntllock-perl libgcc-10-dev libgompl libitml liblsan® libnsl-dev
+libquadmath® libstdc++-10-dev libtirpc-dev libtsan® libubsanl linux-libc-dev manpages manpages-dev pkg-config
+Suggested packages:
+binutils-doc g++-multilib g++-10-multilib gcc-10-doc gcc-multilib make autoconf automake libtool flex bison gdb gcc-doc
+gcc-10-multilib gcc-10-locales bzr | brz mercurial subversion glibc-doc debian-keyring bzr libstdc++-10-doc man-browser
+dpkg-dev
+
+The following NEW packages will be installed:
+
+binutils binutils-common binutils-x86-6U4-linux-gnu g++ g++-10 gcc gcc-10 golang golang-1.15 golang-1.15-doc golang-1.15-go
+
+golang-1.15-src golang-doc golang-go golang-src libasan6é libatomicl libbinutils libc-dev-bin libc-devtools libc6-dev libccl-0
+
+libcrypt-dev libctf-nobfd® libctf@ libdpkg-perl libfile-fcntllock-perl libgcc-10-dev libgompl libitml liblsan® libnsl-dev
+libquadmath® libstdc++-10-dev libtirpc-dev libtsan® libubsanl linux-libc-dev manpages manpages-dev pkg-config
+0 upgraded, 41 newly installed, © to remove and © not upgraded.
+Need to get 115 MB of archives.
+After this operation, 560 MB of additional disk space will be used.
+Do you want to continue? [Y/n] Y
+
+Get:
+Get:
+Get:
+Get:
+Get:
+Get:
+Get:
+Get:
+Get:
+
+COI UTE WNP
+
+http:
+http:
+http:
+http:
+http:
+http:
+http:
+http:
+http:
+
+//security.debian.org/debian-security
+bullseye/main
+bullseye/main
+bullseye/main
+bullseye/main
+bullseye/main
+bullseye/main
+bullseye/main
+bullseye/main
+
+//deb.
+//deb.
+//deb.
+//deb.
+//deb.
+//deb.
+//deb.
+//deb.
+
+debian
+debian
+debian
+debian
+debian
+debian
+debian
+debian
+
+.org/debian
+.org/debian
+.org/debian
+.org/debian
+.org/debian
+.org/debian
+.org/debian
+.org/debian
+
+po
+
+bullseye-security/main amd64 linux-libc-dev amd64 5.10.179-1 [1,618 kB]
+
+amd64 manpages all 5.10-1 [1,412 kB]
+
+amd64 binutils-common amdé64 2.35.2-2 [2,220 kB]
+
+amd64 libbinutils amdé4 2.35.2-2 [570 kB]
+
+amd6l libctf-nobfd® amd6d 2.35.2-2 [110 kB]
+
+amd64 libctf@ amd64 2.35.2-2 [53.2 kB]
+
+amd64 binutils-x86-64-linux—gnu amd64 2.35.2-2 [1,809 kB]
+amd64 binutils amdé4 2.35.2-2 [61.2 kB]
+
+amd64 libccl-0 amdé4 10.2.1-6 [47.0 kB]
+
+[.- I] x 9 ©
+
+J 5C
+
+A © de ENG
+
+21:18
+2023/06/22
+
+o |

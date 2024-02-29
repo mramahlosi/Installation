@@ -1,0 +1,47 @@
+A chobane@DESKTOP-9EGLSGE: X + + = [=]
+
+:~$ sudo apt-get install git-all
+
+Reading package lists... Done
+Building dependency tree... Done
+Reading state information... Done
+
+The following additional packages will be installed:
+apache2 apache2-bin apache2-data apache2-utils bzip2 cvs cvsps dh-elpa-helper elpa-dash elpa-git-commit elpa-magit
+elpa-transient elpa-with-editor emacs emacs-bin-common emacs-common emacs-el emacs-gtk emacsen-common eximd-base eximi-config
+eximd-daemon-light file git-cvs git-doc git-el git-email git-gui git-mediawiki git-svn gitk gitweb gsasl-common guile-2.2-libs
+install-info libalgorithm-c3-perl libaprl libaprutill libaprutill-dbd-sqlite3 libaprutill-ldap libb-hooks-endofscope-perl
+libb-hooks-op-check-perl libcgi-fast-perl libcgi-pm-perl libclass-c3-perl libclass-c3-xs-perl libclass-data-inheritable-perl
+libclass-inspector-perl libclass-method-modifiers-perl libclass-singleton-perl libclass-xsaccessor-perl libcommon-sense-perl
+libdata-optlist-perl libdatetime-format-builder-perl libdatetime-format-iso8601-perl libdatetime—format-strptime-perl
+libdatetime-locale-perl libdatetime-perl libdatetime-timezone-perl libdbd-sqlite3-perl libdbi-perl libdevel-callchecker-perl
+libdevel-caller-perl libdevel-lexalias-perl libdevel-stacktrace-perl libdigest-bubblebabble-perl libdigest-hmac-perl
+libdynaloader-functions-perl libemail-valid-perl libeval-closure-perl libevent-2.1-7 libexception-class-perl libfcgi-bin
+libfcgi-perl libfcgi®ldbl libfile-sharedir-perl libgcl libgd3 libgif7 libgnutls-dane® libgpm2 libgsasl7 libidnll libjson-perl
+libjson-xs-perl libml17n-0 libmagic-mgc libmagicl libmailutils7 libmariadb3 libmediawiki-api-perl libmodule-implementation-perl
+libmodule-runtime-perl libmpdec3 libmro-compat-perl libnamespace-autoclean-perl libnamespace-clean-perl libnet-dns-perl
+libnet-dns-sec-perl libnet-domain-tld-perl libnet-ip-perl libnet-libidn-perl libntlm@ libotf® libpackage-stash-perl
+libpackage-stash-xs-perl libpadwalker-perl libparams-classify-perl libparams-util-perl libparams-validate-perl
+libparams-validationcompiler-perl libperld-corelibs-perl libpython3.9 libpython3.9-minimal libpython3.9-stdlib
+libreadonly-perl libref-util-perl libref-util-xs-perl librole-tiny-perl libserf-1-1 libspecio-perl libsub-exporter-perl
+libsub-exporter-progressive-perl libsub-identify-perl libsub-install-perl libsub-name-perl libsub-quote-perl libsvn-perl
+libsvnl libtcl8.6 libterm-readkey-perl libtk8.6 libtypes-serialiser-perl libunbound8 libutf8proc2 libvariable-magic-perl
+libxssl libxstring-perl libyaml-0-2 libyaml-libyaml-perl libyaml-perl ml17n-db mailcap mailutils mailutils-common
+mariadb-common media-types mime-support mysql-common psmisc ssl-cert tcl tcl8.6 tk tk8.6
+
+Suggested packages:
+apache2-doc apache2-suexec—pristine | apache2-suexec-custom bzip2-doc mksh rcs elpa-transient-doc emacs-common-non-dfsg
+ncurses-term eximd-doc-html | eximi-doc-info eximonld spf-tools-perl swaks git-daemon-run | git-daemon-sysvinit aspell meld
+mediawiki subversion libmldbm-perl libnet-daemon-perl libsql-statement-perl libgd-tools dns-root-data gpm ml7n-docs
+libscalar-number-perl libtest-fatal-perl libyaml-shell-perl gawk mailutils-mh mailutils-doc tcl-tclreadline
+
+The following NEW packages will be installed:
+
+21:16
+2023/06/22
+
+0
+
+J 5C A © Ide ENG
+
+BY
